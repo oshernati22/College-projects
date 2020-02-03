@@ -1,0 +1,2 @@
+A JAVA server that get a matrix 4x4 ,start point, end point and returns the shortest path.
+using object adapther,decorator and startgy.
